@@ -24,7 +24,7 @@ npm install
 
 ## How to Use:
 
-```gitattributes
+```
 node app.js "your address"
 ```
 Example
