@@ -8,7 +8,7 @@ By this section, I explored the asynchronous nature of Node.js. I learnt how to 
 
 **1. Clone the application using**
 ```gitattributes
-git clone https://github.com/jainayu/weather-app.git
+git clone https://github.com/jainayu/weather-app
 ```
 
 **2. Change the directory using**
