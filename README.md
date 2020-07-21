@@ -22,5 +22,19 @@ npm install
 ```
 ------
 
+## How to Use:
+
+```gitattributes
+node app.js address
+```
+Example
+```gitattributes
+node app.js India
+```
+and for address with spaces you can enter
+```gitattributes
+node app.js "New York"
+```
+
 
 
